@@ -1,0 +1,6 @@
+﻿  BankClientsManagementSystem.cpp
+C:\Users\Admin\Desktop\BankClientsManagementSystem(Extension)\BankClientsManagementSystem\BankClientsManagementSystem.cpp(35,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\Admin\Desktop\BankClientsManagementSystem(Extension)\BankClientsManagementSystem\BankClientsManagementSystem.cpp(453,1): warning C4715: 'DeleteClientByAccountNumber': not all control paths return a value
+C:\Users\Admin\Desktop\BankClientsManagementSystem(Extension)\BankClientsManagementSystem\BankClientsManagementSystem.cpp(524,1): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\Admin\Desktop\BankClientsManagementSystem(Extension)\BankClientsManagementSystem\BankClientsManagementSystem.cpp(493,1): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  BankClientsManagementSystem.vcxproj -> C:\Users\Admin\Desktop\BankClientsManagementSystem(Extension)\x64\Debug\BankClientsManagementSystem.exe
